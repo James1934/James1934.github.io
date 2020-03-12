@@ -1,11 +1,11 @@
 # Site settings
 author: Bartholomew Fountain
-title: 
+title: "Why I decided to take up study Software Engineering?”
 header-img: img/home-bg.png
 email: baertholomew@gmail.com
 copyright_name: Bartholomew Fountain
 description: > # this means to ignore newlines until "baseurl:"
-  
+  "Why I made up my mind!"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: AceOfTrade31
 github_username:  James1934
